@@ -18,9 +18,7 @@
     "forceConsistentCasingInFileNames": false,
     "noFallthroughCasesInSwitch": false,
     "paths": {
-      "@app/*": ["src/*"],
-      "@decorator/*": ["src/common/decorator/*"],
-      "@prisma/*": ["src/prisma/*"]
+      "@app/*": ["src/*"]
     }
   }
 }
